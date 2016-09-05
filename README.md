@@ -48,8 +48,8 @@ The EIA once labeled all its standards with the prefix "RS" (Recommended Standar
 (TODO)
 
 #About
-Copyright (C)2004-2016 SimCORE www.simcore.com.br<br>
-Author: Joao Pagotto<br>
+Copyright (C)2004-2016 - SimCORE - www.simcore.com.br<br>
+Author: João Pagotto<br>
 Contact: contato@simcore.com.br<br>
 
 #Licencing

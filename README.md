@@ -4,9 +4,9 @@ Net485 is an protocol to work with the RS485 network universally.<br>
 
 <b>Compatible with:</b>
 <ul>
-<li>Windows (VisualStudio) / (Qt)</li>
-<li>Linux (Qt)</li>
-<li>MacOSX  (Qt)</li>
+<li>Windows (Microsoft Visual Studio C++) / (Qt >= 5.1)</li>
+<li>Linux (Qt >= 5.1)</li>
+<li>MacOSX  (Qt >= 5.)</li>
 <li>Microchip PIC (MPLAB / MPLABX)</li>
 <li>Arduino (Arduino IDE)</li>
 </ul>

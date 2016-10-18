@@ -18,7 +18,7 @@ The EIA once labeled all its standards with the prefix "RS" (Recommended Standar
 <a href="https://en.wikipedia.org/wiki/RS-485">Link to Wikipedia RS-485</a>
 
 # About protocol Net485
-(TODO)
+![alt tag](net485pack.png)
 
 ## How protocol Net485 works
 (TODO)
